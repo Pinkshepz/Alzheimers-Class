@@ -1,6 +1,10 @@
 # Alzheimers-Class
 Demented and nondemented MRI image and numerical data classification with fastai
 
+MRI image training notebook: [Colab-image](https://colab.research.google.com/drive/11snVT2nD5pEVjU41OqDAaaQxTyoHm53l?usp=sharing)
+
+Numerical data training notebook:
+
 # Respository Structure
 
 ```
