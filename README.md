@@ -1,9 +1,9 @@
 # Alzheimers-Class
-Demented and nondemented MRI image and numerical data classification with fastai
+Demented and nondemented MRI image classification with fastai
 
 MRI image training notebook: [Colab-image](https://colab.research.google.com/drive/11snVT2nD5pEVjU41OqDAaaQxTyoHm53l?usp=sharing)
 
-Numerical data training notebook:
+[Medium]
 
 # Respository Structure
 
@@ -26,5 +26,6 @@ Numerical data training notebook:
     - McNemars_image_test.ipynb; test the model significance
    
 - models
+    - Image_ResNet34_1e-3.pkl
     - Image_ResNet50_3e-2.pkl/pth
 ```
