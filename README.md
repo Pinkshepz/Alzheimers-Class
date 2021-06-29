@@ -19,6 +19,12 @@ Numerical data training notebook:
         - VeryMildDemented (448 images)
         - MildDemented (179 images)
         - ModerateDemented (12 images)
+        
 - notebooks
-    - Train_image_class.ipynb; train the model and basic inference notebook app
+    - Image_train_ฺbaseline.ipynb; train the baseline model
+    - Image_train_class.ipynb; train the model
+    - McNemars_image_test.ipynb; test the model significance
+   
+- models
+    - Image_ResNet50_3e-2.pkl/pth
 ```
