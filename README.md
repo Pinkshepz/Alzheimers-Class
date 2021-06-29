@@ -26,6 +26,6 @@ MRI image training notebook: [Colab-image](https://colab.research.google.com/dri
     - McNemars_image_test.ipynb; test the model significance
    
 - models
-    - Image_ResNet34_1e-3.pkl
+    - Image_ResNet34_1e-3.pth
     - Image_ResNet50_3e-2.pkl/pth
 ```
