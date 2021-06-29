@@ -1,9 +1,11 @@
 # Alzheimers-Class
-Demented and nondemented MRI image classification with fastai
+Demented and nondemented MRI image classification with [fastai](https://docs.fast.ai/)
 
 MRI image training notebook: [Colab-image](https://colab.research.google.com/drive/11snVT2nD5pEVjU41OqDAaaQxTyoHm53l?usp=sharing)
 
 [Medium]
+
+Machine learning nowadays has been developing to solve our problems from daily life to national-level issues. Moreover, it would be remarkable when ML can be applied to medical fields and enhance our health!
 
 # Respository Structure
 
